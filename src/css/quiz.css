@@ -1,0 +1,31 @@
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.question{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 12px 32px 12px 32px;
+    border-bottom: 1px gray solid;
+}
+
+label{
+
+    margin: 12px;
+}
+
+button{
+    padding: 12px;
+
+}
+
+.result{
+    text-align: center;
+    padding: 12px;
+    margin: 13px;
+    font-size: medium;
+}

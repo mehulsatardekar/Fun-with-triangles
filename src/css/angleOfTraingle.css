@@ -1,0 +1,35 @@
+main{
+    margin: 23px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+label{
+    margin: 12px 0 12px 0;
+    font-size: 1.4rem;
+
+}
+
+input{
+    height: 30px;
+    padding: 5px 5px 5px 5px;
+    margin: 12px 0 12px 0;
+}
+
+button{
+    padding: 12px;
+    font-weight: bold;
+    
+}
+
+button:hover{
+    background-color: rgb(236, 34, 236);
+    color: white;
+}
+
+.result{
+    margin-top: 12px;
+    font-size: 1.3rem;
+}
